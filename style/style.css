@@ -1,1 +1,21 @@
+.box {
+  background-color: white;
+}
+.btn-blue:hover {
+  background-color: white;
+  color: blue;
+  border: 2px solid blue;
+}
+.btn-white:hover {
+  background-color: blue;
+  color: white;
+  border: 2px solid blue;
+}
 
+/* button {
+  box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+}
+button:hover {
+  box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan,
+    0 0 200px cyan;
+} */
