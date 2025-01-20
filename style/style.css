@@ -84,7 +84,7 @@ body {
   text-align: justify;
 }
 .bg-image {
-  background-image: url("/Tree-group4/img/nature-bg2.webp");
+  background-image: url("img/nature-bg2.webp");
   background-size: cover;
   background-position: center;
   height: 90vh;
@@ -107,7 +107,7 @@ body {
 .bg-img {
   width: 100%;
   height: 600px;
-  background-image: url(/Tree-group4/img/seed2.avif);
+  background-image: url(img/seed2.avif);
   background-size: cover;
 }
 
