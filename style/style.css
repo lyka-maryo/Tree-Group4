@@ -83,7 +83,7 @@ body {
   text-align: justify;
 }
 .bg-image {
-  background: url("/Tree-group4/img/ab.png");
+  background: url("/Tree-Group4/img/nature-bg1.jpg");
   background-size: cover;
   background-position: center;
   height: 90vh;
@@ -106,7 +106,7 @@ body {
 .bg-img {
   width: 100%;
   height: 600px;
-  background-image: url("/Tree-group4/img/ab.png");
+  background-image: url("/Tree-Group4/img/ab.png");
   background-size: cover;
 }
 
@@ -218,7 +218,7 @@ body {
   margin: 2rem 0;
 }
 .img {
-  background-image: url("/Tree-group4/img/Pasted\ image\ \(7\).png");
+  background-image: url("/Tree-Group4/img/Pasted\ image\ \(7\).png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
